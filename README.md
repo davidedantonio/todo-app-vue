@@ -1,4 +1,6 @@
-# todo-app-articolo
+# todo-app
+
+Questo articolo è un semplice esempio di TODO APP realizzata in Vue.js
 
 ## Project setup
 ```
